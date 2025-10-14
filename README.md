@@ -1,4 +1,7 @@
 # Road Accident Risk Prediction — End-to-End ML Project
+
+![sebastian-enrique-fITjgoVw6GU-unsplash](https://github.com/user-attachments/assets/92c3d592-49a8-452c-9648-907c61f38bfc)
+
 ## Overview
 
 This project explores one question:
