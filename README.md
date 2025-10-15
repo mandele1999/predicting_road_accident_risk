@@ -77,3 +77,11 @@ Our process followed a classic yet refined machine learning workflow:
 * Experiment with ensemble stacking of CatBoost and XGBoost.
 * Introduce geospatial and temporal data (e.g., location clusters or time-based effects).
 * Explore model deployment via a lightweight web dashboard for real-time risk scoring.
+
+### Acknowledgements
+This project was built using the [Road Accident Risk Prediction Dataset](https://www.kaggle.com/competitions/playground-series-s5e10)
+ from **Kaggle** — an open repository enabling data-driven learning and experimentation.
+
+Gratitude to the original dataset contributors and the Kaggle community for providing transparent, high-quality data that allows data scientists to explore real-world challenges and build meaningful predictive models.
+
+Without such open collaboration, projects like this — blending data science, safety analytics, and practical modeling — wouldn’t be possible.
