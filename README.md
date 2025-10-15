@@ -91,6 +91,6 @@ If you enjoyed this project or have thoughts on improving predictive modeling fo
 I’m always up for connecting with fellow data enthusiasts, collaborators, or anyone exploring the intersection of data, behavior, and decision-making.
 
 Find me on:
-* [LinkedIn](www.linkedin.com/in/mlfrnk)
+* **LinkedIn:** [Franq](www.linkedin.com/in/mlfrnk)
 
 
