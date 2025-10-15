@@ -35,27 +35,27 @@ Early analysis during data exploration showed clear patterns — for instance, n
 Our process followed a classic yet refined machine learning workflow:
 
 **1. Baseline Modeling**
-    * Established benchmark performance using several algorithms:
-        * Linear Regression
-        * Random Forest
-        * Gradient Boosting
-        * CatBoost
-        * XGBoost
+   * Established benchmark performance using several algorithms:
+      * Linear Regression
+      * Random Forest
+      * Gradient Boosting
+      * CatBoost
+      * XGBoost
 
 **2. Initial Findings**
-    * CatBoost emerged as the top performer during baseline evaluation (lowest RMSE on validation).
-    * We then used feature importance and SHAP values to interpret CatBoost’s decisions globally and locally.
+   * CatBoost emerged as the top performer during baseline evaluation (lowest RMSE on validation).
+   * We then used feature importance and SHAP values to interpret CatBoost’s decisions globally and locally.
 
 **3. Generalization Testing**
 
-    * To verify robustness, we conducted cross-validation (CV) RMSE analysis.
-    * Interestingly, XGBoost slightly outperformed CatBoost here — with lower mean RMSE and smaller standard deviation across folds.
-    * This indicated better stability and generalization, making XGBoost our final model of choice.
+   * To verify robustness, we conducted cross-validation (CV) RMSE analysis.
+   * Interestingly, XGBoost slightly outperformed CatBoost here — with lower mean RMSE and smaller standard deviation across folds.
+   * This indicated better stability and generalization, making XGBoost our final model of choice.
 
 ### Key Insights
-* Lighting conditions and weather consistently ranked among the most influential predictors of risk severity.
-* Speed limits had a nonlinear relationship with severity — moderate speeds tended to correspond with fewer severe cases.
-* Presence of road signs and school season introduced subtle but meaningful contextual effects, showing how small situational cues can shift risk dynamics.
+   * Lighting conditions and weather consistently ranked among the most influential predictors of risk severity.
+   * Speed limits had a nonlinear relationship with severity — moderate speeds tended to correspond with fewer severe cases.
+   * Presence of road signs and school season introduced subtle but meaningful contextual effects, showing how small situational cues can shift risk dynamics.
 
 ### Final Model
 
