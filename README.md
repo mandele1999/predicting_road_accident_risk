@@ -85,4 +85,12 @@ This project was built using the [Road Accident Risk Prediction Dataset](https:/
 
 Gratitude to the original dataset contributors and the Kaggle community for providing transparent, high-quality data that allows data scientists to explore real-world challenges and build meaningful predictive models.
 
+### 💬 Let's Connect
+If you enjoyed this project or have thoughts on improving predictive modeling for real-world safety analytics, I’d love to hear from you.
+
+I’m always up for connecting with fellow data enthusiasts, collaborators, or anyone exploring the intersection of data, behavior, and decision-making.
+
+Find me on:
+* [LinkedIn](www.linkedin.com/in/mlfrnk)
+
 Without such open collaboration, projects like this — blending data science, safety analytics, and practical modeling — wouldn’t be possible.
