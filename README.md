@@ -83,7 +83,7 @@ Our process followed a classic yet refined machine learning workflow:
 This project was built using the [Road Accident Risk Prediction Dataset](https://www.kaggle.com/competitions/playground-series-s5e10)
  from **Kaggle** — an open repository enabling data-driven learning and experimentation.
 
-Gratitude to the original dataset contributors and the Kaggle community for providing transparent, high-quality data that allows data scientists to explore real-world challenges and build meaningful predictive models.
+Gratitude to the original dataset contributors and the Kaggle community for providing transparent, high-quality data that allows data scientists to explore real-world challenges and build meaningful predictive models. Without such open collaboration, projects like this — blending data science, safety analytics, and practical modeling — wouldn’t be possible.
 
 ### 💬 Let's Connect
 If you enjoyed this project or have thoughts on improving predictive modeling for real-world safety analytics, I’d love to hear from you.
@@ -93,4 +93,4 @@ I’m always up for connecting with fellow data enthusiasts, collaborators, or a
 Find me on:
 * [LinkedIn](www.linkedin.com/in/mlfrnk)
 
-Without such open collaboration, projects like this — blending data science, safety analytics, and practical modeling — wouldn’t be possible.
+
