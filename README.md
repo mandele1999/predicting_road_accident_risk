@@ -61,17 +61,17 @@ Our process followed a classic yet refined machine learning workflow:
 
 | Metric                             | Value                             |
 | ---------------------------------- | --------------------------------- |
-| Model                              | XGBoost Regressor                 |
-| Validation RMSE                    | *[insert value]*                  |
-| Cross-Validation RMSE (mean ± std) | *[insert mean ± std]*             |
+| Model                              | `XGBoost Regressor`                 |
+| Validation RMSE                    | *0.0563*                  |
+| Cross-Validation RMSE (mean ± std) | *0.0561 ± 0.0001*             |
 | Test Predictions                   | 172,585 rows (matching test size) |
 
 ### Reflections
-This project reinforced the importance of balancing accuracy and interpretability.
+* This project reinforced the importance of balancing accuracy and interpretability.
 
-A model that performs slightly better on validation might still fail to generalize well — and that’s where cross-validation and explainability step in as sanity checks.
+* A model that performs slightly better on validation might still fail to generalize well — and that’s where cross-validation and explainability step in as sanity checks.
 
-Also, SHAP proved invaluable for trust-building — showing exactly how and why certain predictions were made, which is critical for real-world adoption in safety-critical domains.
+* Also, SHAP proved invaluable for trust-building — showing exactly how and why certain predictions were made, which is critical for real-world adoption in safety-critical domains.
 
 ### What's Next?
 * Experiment with ensemble stacking of CatBoost and XGBoost.
