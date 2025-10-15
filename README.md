@@ -36,6 +36,7 @@ Our process followed a classic yet refined machine learning workflow:
 
 **1. Baseline Modeling**
     * Established benchmark performance using several algorithms:
+    
         * Linear Regression
         * Random Forest
         * Gradient Boosting
