@@ -30,13 +30,12 @@ Preprocessing included:
 Early analysis during data exploration showed clear patterns — for instance, night-time and dimly lit conditions correlated strongly with higher risk scores, while wider roads (more lanes) generally indicated lower risk.
 
 
-### Modeling Process
+## Modeling Process
 
 Our process followed a classic yet refined machine learning workflow:
 
 **1. Baseline Modeling**
     * Established benchmark performance using several algorithms:
-    
         * Linear Regression
         * Random Forest
         * Gradient Boosting
